@@ -17,7 +17,6 @@ export default defineConfig({
       lang: 'en'
     }
   },
-  base: '/blbiWiki/',
   themeConfig: {
     localeLinks: {
       text: '语言',
