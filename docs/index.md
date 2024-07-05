@@ -12,9 +12,9 @@ hero:
       link: "./all"
 features:
   - title: "产品列表"
-  - details: "波比产品列表"
+    details: "波比产品列表"
   - title: "产品列表"
-  - details: "波比产品列表"
+    details: "波比产品列表"
   - title: "产品列表"
-  - details: "波比产品列表"
+    details: "波比产品列表"
 ---
