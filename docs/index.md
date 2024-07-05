@@ -10,11 +10,11 @@ hero:
     - theme: brand
       text: 产品列表
       link: "./all"
-  features:
-    - title: "产品列表"
-    - details: "波比产品列表"
-    - title: "产品列表"
-    - details: "波比产品列表"
-    - title: "产品列表"
-    - details: "波比产品列表"
+features:
+  - title: "产品列表"
+  - details: "波比产品列表"
+  - title: "产品列表"
+  - details: "波比产品列表"
+  - title: "产品列表"
+  - details: "波比产品列表"
 ---
