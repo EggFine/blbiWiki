@@ -25,6 +25,5 @@ export default defineConfig({
         { text: 'English', link: '/en/' }
       ]
     },
-  },
-
+  }
 })

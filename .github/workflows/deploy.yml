@@ -32,14 +32,6 @@ jobs:
         run: npm ci
       - name: Build with VitePress
         run: npm run docs:build
-        env:
-          BASE_URL: '/blbiWiki/'
-      # 复制所有静态资源
-      - name: Copy static assets
-        run: |
-          mkdir -p docs/.vitepress/dist/assets
-          cp -r docs/public/* docs/.vitepress/dist/assets/ || true
-          cp -r docs/*.{png,jpg,jpeg,gif,svg,ico} docs/.vitepress/dist/assets/ || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
