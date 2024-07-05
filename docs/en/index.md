@@ -5,7 +5,7 @@ hero:
   text: "Wiki Center for blbi Products"
   tagline: "Wiki Page"
   image:
-    src: "../icon.png"
+    src: "icon.png"
   actions:
     - theme: brand
       text: Product List
