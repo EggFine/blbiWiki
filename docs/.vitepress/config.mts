@@ -26,11 +26,5 @@ export default defineConfig({
       ]
     },
   },
-  vite: {
-    resolve: {
-      alias: {
-        '@': resolve(__dirname, '../')
-      }
-    },
-  },
+
 })
