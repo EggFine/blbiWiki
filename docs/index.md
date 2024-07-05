@@ -5,7 +5,7 @@ hero:
   text: "波比产品官方文档中心"
   tagline: "Wiki Page"
   image:
-    src: "./icon.png"
+    src: "../docs/icon.png"
   actions:
     - theme: brand
       text: 产品列表
