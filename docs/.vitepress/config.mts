@@ -25,6 +25,7 @@ export default defineConfig({
         { text: 'English', link: '/en/' }
       ]
     },
+  },
   vite: {
     resolve: {
       alias: {
