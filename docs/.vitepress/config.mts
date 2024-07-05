@@ -25,7 +25,7 @@ export default defineConfig({
         { text: 'English', link: '/en/' }
       ]
     },
-    sidebar: 'auto'
+    sidebar: 'auto',
     search: {
       provider: "local",
       options: {
