@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.CQAhCBne.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/guide/config.md","filePath":"en/guide/config.md"}'),o={name:"en/guide/config.md"};function a(c,r,i,s,d,f){return n(),t("div")}const m=e(o,[["render",a]]);export{_ as __pageData,m as default};

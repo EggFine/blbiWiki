@@ -1,20 +1,69 @@
 ---
-layout: home
-hero:
-  name: "波比文档中心"
-  text: "波比产品官方文档中心"
-  tagline: "Wiki Page"
-  image:
-    src: "/icon.png"
-  actions:
-    - theme: brand
-      text: 产品列表
-      link: "./all"
-features:
-  - title: "💡 小建议"
-    details: "选择永远大于努力"
-  - title: "🧗 努力"
-    details: "如果做一件事就努力把它做好"
-  - title: "🤔 思考"
-    details: "学会思考，不要人云亦云"
+{
+    "layout": "home",
+    "hero": {
+        "name": "aaaaaaa",
+        "text": "A VitePress Site",
+        "tagline": "My great project tagline",
+        "actions": [
+            {
+                "theme": "brand",
+                "text": "Markdown Examples",
+                "link": "/markdown-examples"
+            },
+            {
+                "theme": "alt",
+                "text": "API Examples",
+                "link": "/api-examples"
+            }
+        ],
+        "image": {
+            "src": "",
+            "alt": "",
+            "width": "",
+            "height": ""
+        },
+        "description": "",
+        "features": [],
+        "head": []
+    },
+    "features": [
+        {
+            "title": "Feature A",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        },
+        {
+            "title": "Feature B",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        },
+        {
+            "title": "Feature C",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        }
+    ],
+    "title": "blbiWiki",
+    "description": "",
+    "navbar": true,
+    "sideBar": true,
+    "footer": false,
+    "outline": [
+        1,
+        3
+    ],
+    "editLink": false,
+    "lastUpdated": true,
+    "aside": "right",
+    "custom": {},
+    "head": [
+        [
+            "meta",
+            {
+                "name": "title",
+                "content": "blbiWiki"
+            }
+        ]
+    ]
+}
 ---
+
+
