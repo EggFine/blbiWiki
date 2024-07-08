@@ -34,7 +34,7 @@ jobs:
         run: npm run docs:build
         env:
           # 确保这里设置了正确的 BASE_URL
-          BASE_URL: '/blbiWiki/'
+          # BASE_URL: '/blbiWiki/'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
